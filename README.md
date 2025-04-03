@@ -2,8 +2,13 @@
 
 This project implements a customer churn prediction system using XGBoost and Streamlit. The system includes data preprocessing, model training with hyperparameter optimization, and a web interface for real-time predictions.
 
-## Live Demo
-You can access the live demo at: [Your Streamlit Cloud URL after deployment]
+## Video example
+
+![Demo GIF](./demo_retail.gif)
+
+
+## Try it at : 
+
 
 ## Features
 
