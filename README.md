@@ -7,7 +7,7 @@ This project implements a customer churn prediction system using XGBoost and Str
 ![Demo GIF](./customer_demo.gif)
 
 
-## Try it at : 
+## Try it at : https://customerchurnprediction-tkr58nk9cvepmc6genq6i6.streamlit.app/
 
 
 ## Features
