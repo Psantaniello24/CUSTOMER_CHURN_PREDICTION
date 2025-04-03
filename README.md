@@ -4,7 +4,7 @@ This project implements a customer churn prediction system using XGBoost and Str
 
 ## Video example
 
-![Demo GIF](./demo_retail.gif)
+![Demo GIF](./customer_demo.gif)
 
 
 ## Try it at : 
