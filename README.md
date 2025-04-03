@@ -2,8 +2,13 @@
 
 This project implements a customer churn prediction system using XGBoost and Streamlit. The system includes data preprocessing, model training with hyperparameter optimization, and a web interface for real-time predictions.
 
-## Live Demo
-You can access the live demo at: [Your Streamlit Cloud URL after deployment]
+## Video example
+
+![Demo GIF](./customer_demo.gif)
+
+
+## Try it at : 
+
 
 ## Features
 
@@ -49,15 +54,6 @@ python train.py
 streamlit run app.py
 ```
 
-## Deployment
-
-This application can be deployed on Streamlit Cloud:
-
-1. Push your code to GitHub
-2. Visit [share.streamlit.io](https://share.streamlit.io)
-3. Sign in with GitHub
-4. Deploy your app by selecting your repository
-
 ## Project Structure
 
 - `data_preprocessing.py`: Contains the data preprocessing pipeline
@@ -96,13 +92,3 @@ The model is evaluated using:
 - Precision
 - Recall
 - AUC-ROC
-
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-[Choose an appropriate license for your project]
-
-- VENV - CUSTOMER_TRACKING
