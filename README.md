@@ -22,8 +22,8 @@ This project implements a customer churn prediction system using XGBoost and Str
 
 1. Clone this repository:
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone https://github.com/Psantaniello24/CUSTOMER_CHURN_PREDICTION.git
+cd CUSTOMER_CHURN_PREDICTION
 ```
 
 2. Create and activate a virtual environment:
